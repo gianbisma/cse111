@@ -3,7 +3,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-  string age, string;
+  string age, height;
   cout << "Enter age: ";
   cin >> age;
   cout << "You are " << age << " years-old\n";
